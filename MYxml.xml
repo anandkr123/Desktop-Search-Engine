@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<company>
+	<employee>
+		<firstname>Tom</firstname>
+		<lastname>Cruise</lastname>
+                <position>Worker</position>
+                <salary>25,000</salary>
+	</employee>
+<employee>
+		<firstname>Anastasia</firstname>
+		<lastname>Lee</lastname>
+	        <position>Manager</position>
+                <salary>40,000</salary>
+</employee>
+<employee>
+		<firstname>Ana</firstname>
+		<lastname>zdenka</lastname>
+	     
+                <salary>40,000</salary>
+</employee>
+</company>
